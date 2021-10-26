@@ -5,6 +5,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="UTF-8">
+    <title>Educational Resilience Program</title>
     <!--<title> Login and Registration Form in HTML & CSS | CodingLab </title>-->
     <link rel="stylesheet" href="{{asset('assets/css/account/style.css')}}">
     <!-- Fontawesome CDN Link -->
